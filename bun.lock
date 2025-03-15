@@ -4,6 +4,8 @@
     "": {
       "name": "react-api-learn",
       "dependencies": {
+        "jose": "^6.0.10",
+        "js-cookie": "^3.0.5",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
       },
@@ -302,6 +304,10 @@
     "is-glob": ["is-glob@4.0.3", "", { "dependencies": { "is-extglob": "^2.1.1" } }, "sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg=="],
 
     "isexe": ["isexe@2.0.0", "", {}, "sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw=="],
+
+    "jose": ["jose@6.0.10", "", {}, "sha512-skIAxZqcMkOrSwjJvplIPYrlXGpxTPnro2/QWTDCxAdWQrSTV5/KqspMWmi5WAx5+ULswASJiZ0a+1B/Lxt9cw=="],
+
+    "js-cookie": ["js-cookie@3.0.5", "", {}, "sha512-cEiJEAEoIbWfCZYKWhVwFuvPX1gETRYPw6LlaTKoxD3s2AkXzkCjnp6h0V77ozyqj0jakteJ4YqDJT830+lVGw=="],
 
     "js-tokens": ["js-tokens@4.0.0", "", {}, "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="],
 
